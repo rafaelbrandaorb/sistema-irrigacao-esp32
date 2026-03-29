@@ -10,7 +10,7 @@ Este projeto consiste em um sistema autônomo de monitoramento de umidade do sol
 - **Modo Manual:** Possibilidade de forçar a irrigação via interface web.
 
 ## 🛠️ Hardware Utilizado
-- ![Circuito](circuito.jpeg)
+
 - ESP32 DevKit V1 (Microcontrolador com Wi-Fi integrado
 - Sensor de Umidade de Solo (Capacitivo)
 - Módulo Relé 5V (1 Canal)
