@@ -10,8 +10,8 @@ Este projeto consiste em um sistema autônomo de monitoramento de umidade do sol
 - **Modo Manual:** Possibilidade de forçar a irrigação via interface web.
 
 ## 🛠️ Hardware Utilizado
-- ![Circuito](circuito.png)
-- [ESP32 DevKit V1](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkit-v1.html)
+- ![Circuito](circuito.jpeg)
+- ESP32 DevKit V1 (Microcontrolador com Wi-Fi integrado
 - Sensor de Umidade de Solo (Capacitivo)
 - Módulo Relé 5V (1 Canal)
 - Display LCD 16x2 com Módulo I2C
